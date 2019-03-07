@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         public int aa;
         static void Main(string[] args)
         {
-            
+            Console.Write("123");
         }
     }
 }
